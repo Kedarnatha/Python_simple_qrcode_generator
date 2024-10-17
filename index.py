@@ -1,0 +1,1 @@
+print("Qr code simple implimentation")
